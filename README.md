@@ -1,4 +1,3 @@
 # Production-Grade-Notebook-Projects
 
-coming soon.....
-..
+coming soon..
